@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "1004075713570",
+    "project_id": "fastdelivery-416521",
+    "storage_bucket": "fastdelivery-416521.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004075713570:android:b4a7d3b74bc22c201c767b",
+        "android_client_info": {
+          "package_name": "com.lojadev.fast_delivery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzxQRR1aTMECJVwdb-pfLJ-GKK2zVNTEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004075713570:android:802e1c38eba5800a1c767b",
+        "android_client_info": {
+          "package_name": "com.lojadev.fast_delivery_user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzxQRR1aTMECJVwdb-pfLJ-GKK2zVNTEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004075713570:android:37ffe52cbe44ec0f1c767b",
+        "android_client_info": {
+          "package_name": "com.lojadev.fast_delivery_vandor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzxQRR1aTMECJVwdb-pfLJ-GKK2zVNTEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
