@@ -1,4 +1,4 @@
-package com.lojadev.fast_delivery_vandor
+package com.parceiro.zipdelivery
 
 import io.flutter.embedding.android.FlutterActivity
 
