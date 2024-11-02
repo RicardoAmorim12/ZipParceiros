@@ -1,21 +1,22 @@
 {
   "project_info": {
-    "project_number": "1004075713570",
-    "project_id": "fastdelivery-416521",
-    "storage_bucket": "fastdelivery-416521.appspot.com"
+    "project_number": "656430341843",
+    "firebase_url": "https://zip-delivery-19a5a-default-rtdb.firebaseio.com",
+    "project_id": "zip-delivery-19a5a",
+    "storage_bucket": "zip-delivery-19a5a.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1004075713570:android:b4a7d3b74bc22c201c767b",
+        "mobilesdk_app_id": "1:656430341843:android:fa313b1ae7c97ac19a3e26",
         "android_client_info": {
-          "package_name": "com.lojadev.fast_delivery"
+          "package_name": "com.entregador.zipdelivery"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDzxQRR1aTMECJVwdb-pfLJ-GKK2zVNTEY"
+          "current_key": "AIzaSyDxMvGeoseHre9N2GvnD0It7h9n1BS6Mc0"
         }
       ],
       "services": {
@@ -26,26 +27,7 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1004075713570:android:802e1c38eba5800a1c767b",
-        "android_client_info": {
-          "package_name": "com.lojadev.fast_delivery_user"
-        }
-      },
-      "oauth_client": [],
-      "api_key": [
-        {
-          "current_key": "AIzaSyDzxQRR1aTMECJVwdb-pfLJ-GKK2zVNTEY"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": []
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:1004075713570:android:37ffe52cbe44ec0f1c767b",
+        "mobilesdk_app_id": "1:656430341843:android:d4de7ce5821fc8389a3e26",
         "android_client_info": {
           "package_name": "com.parceiro.zipdelivery"
         }
@@ -53,7 +35,26 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDzxQRR1aTMECJVwdb-pfLJ-GKK2zVNTEY"
+          "current_key": "AIzaSyDxMvGeoseHre9N2GvnD0It7h9n1BS6Mc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656430341843:android:35ed843a68e711fc9a3e26",
+        "android_client_info": {
+          "package_name": "com.zipdelivery.user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxMvGeoseHre9N2GvnD0It7h9n1BS6Mc0"
         }
       ],
       "services": {
